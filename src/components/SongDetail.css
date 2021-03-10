@@ -1,0 +1,16 @@
+.song-detail {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.5rem;
+}
+
+.song-header {
+  color: red;
+}
+
+.song-span {
+  font-size: 2rem;
+  color: #000;
+}
